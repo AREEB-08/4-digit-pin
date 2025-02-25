@@ -64,4 +64,38 @@ SecureFileAccess/
 🔹 Ensure `file_3.txt` exists; otherwise, an error will occur.  
 🔹 The program currently supports **only numeric 4-digit PINs**.  
 
+## 💡 Future Improvements  
+🔐 **Encrypt the PIN** for better security.  
+🔄 Allow users to **change their PIN** after setting it.  
+📂 Let users choose **which file** to protect.  
+🚀 Add **a graphical user interface (GUI)** for better usability.  
+
+---
+
+## 🤝 Contributing  
+🔹 If you’d like to contribute, feel free to **fork the repository** and submit a **pull request**.  
+
+```bash
+git clone https://github.com/AREEB-08/SecureFileAccess.git
+cd SecureFileAccess
+```
+Make your improvements and push the changes:  
+```bash
+git add .
+git commit -m "Improved PIN validation"
+git push origin main
+```
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute it.  
+
+---
+
+## 📩 Contact  
+For any issues, suggestions, or contributions, feel free to contact:  
+📧 `your-email@example.com`  
+
+--
 ---
